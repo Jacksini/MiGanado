@@ -1,0 +1,52 @@
+.mb-3{
+    max-width: 540px; 
+    height: 80px;
+    background-color: rgb(172, 226, 255);
+    margin-top: 1%;
+}
+
+.col-md-4{
+    max-width: 75px; 
+    max-height: 75px;
+}
+
+.col-md-8{
+    max-width: 279px; 
+    max-height: 75px;
+}
+
+.card-body{
+    max-width: 279px; 
+    max-height: 75px; 
+    padding: 0; 
+    padding-left: 5px; 
+    margin-top: 5%;
+
+}
+
+.card-title{
+    max-width: 300px;
+    max-height: 20px;
+}
+
+.card-text{
+    font-size: 13px; 
+    margin: 0;
+    max-width: 200px;
+    max-height: 100px;
+}
+.hospital{
+    width: 75px;
+    height: 75px;
+}
+
+.phone{
+    max-width: 50px; 
+    max-height: 50px;
+    position: absolute;
+    top: 20%;
+    right: 4%;  
+}
+
+
+

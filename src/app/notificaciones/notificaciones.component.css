@@ -1,0 +1,36 @@
+.mb-3{
+    max-width: 540px; 
+    max-height: 200px;
+    background-color: rgb(172, 226, 255);
+}
+
+.col-md-4{
+    max-width: 75px; 
+    max-height: 75px;
+}
+
+.col-md-8{
+    max-width: 279px; 
+    max-height: 75px;
+}
+
+.card-body{
+    max-width: 279px; 
+    max-height: 75px; 
+    padding: 0; 
+    padding-left: 5px; 
+    margin: 0;
+}
+
+.card-title{
+    max-width: 300px;
+}
+
+.card-text{
+    font-size: 13px; 
+    margin: 0;
+}
+
+.text-body-secondary{
+    font-size: 12px;
+}

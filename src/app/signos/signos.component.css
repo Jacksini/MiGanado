@@ -1,0 +1,60 @@
+img{
+  width: 75px;
+  height: 75px;
+}
+
+span.Animal{
+  color: white;
+  font-size: 25px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  width: 150px;
+  height: 30px;
+  display: block; 
+  text-align: left;
+}
+
+span.Corral{
+  color: white;
+  font-size: 15px;
+  width: 150px;
+  height: 30px;
+  display: block; 
+  text-align: left;
+}
+
+span.material-icons {
+  padding-left: 40px;
+  font-size: 45px;
+  color: #ffffff;
+}
+
+.container{
+  background-color: #004F94;
+  border-radius: 5px;
+  padding: 5px;
+  padding-left: 15px;
+  width: 340px;
+  height: 75px;
+}
+
+.lista-horizontal {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+
+.lista-horizontal li {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 10px; /* Puedes ajustar el margen derecho según tus necesidades */
+}
+
+.lista-horizontal li:last-child {
+  margin-right: 0;
+}
+
+.ListAnimals{
+  padding-top: 10px;
+}

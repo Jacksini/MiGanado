@@ -15,6 +15,12 @@ import { SignosadvComponent } from './signosadv/signosadv.component';
 import { ConfiguracionComponent } from './configuracion/configuracion.component';
 import { NotificacionesComponent } from './notificaciones/notificaciones.component';
 import { MedicoComponent } from './medico/medico.component';
+import { InfoUsuarioComponent } from './configuracion/info-usuario/info-usuario.component';
+import { ServicioVeterinarioComponent } from './configuracion/servicio-veterinario/servicio-veterinario.component';
+import { NotificacionesConfigComponent } from './configuracion/notificaciones-config/notificaciones-config.component';
+import { SoporteComponent } from './configuracion/soporte/soporte.component';
+import { ChipsComponent } from './configuracion/chips/chips.component';
+
 
 @NgModule({
   declarations: [
@@ -27,7 +33,12 @@ import { MedicoComponent } from './medico/medico.component';
     SignosadvComponent,
     ConfiguracionComponent,
     NotificacionesComponent,
-    MedicoComponent
+    MedicoComponent,
+    InfoUsuarioComponent,
+    ServicioVeterinarioComponent,
+    NotificacionesConfigComponent,
+    SoporteComponent,
+    ChipsComponent,
   ],
   imports: [
     BrowserModule,

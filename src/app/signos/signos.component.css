@@ -23,10 +23,12 @@ span.Corral{
 }
 
 span.material-icons {
+  float: right;
   padding-left: 30px;
   font-size: 45px;
   color: #ffffff;
 }
+
 
 .container{
   background-color: #004F94;

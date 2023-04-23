@@ -63,11 +63,11 @@ span.material-icons {
 }
 
 .derecha {
-  padding-right: 75px;
+  padding-right: 60px;
 }
 
 .izquierda {
-  padding-left: 75px;
+  padding-left: 60px;
 }
 
 .topbar {
@@ -83,21 +83,3 @@ span.material-icons {
 .activo span:active {
   transform: scale(1.2);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* button{
-    outline: none;
-    border: none;
-  } */

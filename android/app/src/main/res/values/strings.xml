@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Mi Ganado</string>
+    <string name="title_activity_main">Mi Ganado</string>
+    <string name="package_name">com.miganado.app</string>
+    <string name="custom_url_scheme">com.miganado.app</string>
+</resources>
